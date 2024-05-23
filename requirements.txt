@@ -1,0 +1,6 @@
+transformers
+torch
+pandas
+instaloader
+scikit-learn
+ipython
